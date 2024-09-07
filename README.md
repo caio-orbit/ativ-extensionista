@@ -1,2 +1,2 @@
-# ativ extensionista
- projeto entre alunos da faculdade de analise e desenvolvimento de sistemas da uninter. projeto visa gerar um aplicacao simples onde auxilie o usuario com frases de inspiração e habitos saudaveis
+# Ativ Extensionista
+ Projeto desenvolvido por alunos do curso de Análise e Desenvolvimento de Sistemas da UNINTER. O objetivo é criar uma aplicação simples que auxilie os usuários com frases inspiradoras e sugestões de hábitos saudáveis.
